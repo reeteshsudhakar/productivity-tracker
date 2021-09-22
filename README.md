@@ -22,9 +22,14 @@ Since each Notion Page is different, you'll have to set your database's ID and i
 
 Information on finding the database ID can be found [here](https://developers.notion.com/docs/working-with-databases). 
 
-### git clone 
+### Git Clone
 To clone this repository, run the following line in your command line or Terminal. 
 
 `git clone https://github.com/reeteshsudhakar/productivity-tracker`
 
 Once the integration token and database ID are changed and the code is run, a locally hosted web app will open with the visualized data. 
+
+## To-Do List
+* [ ] Exceptions and Error Handling - errors, warnings, etc. 
+* [ ] Plotly figure generation
+* [ ] Streamlit integration 
