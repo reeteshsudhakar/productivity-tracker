@@ -1,4 +1,3 @@
-import json
 from logging import error
 import requests
 from projects_vis import * 

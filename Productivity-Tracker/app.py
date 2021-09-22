@@ -1,10 +1,5 @@
-# TODO continue studying this API https://docs.streamlit.io/en/stable/api.html#display-charts
-import pandas as pd
 import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
 import seaborn as sns
-import jsonlines
 sns.set()
 from projects_vis import *
 from notion_api import *
@@ -42,4 +37,3 @@ project_time_spents = projects_pie_chart(df)
 st.write(project_time_spents)
 project_events = projects_scatter_plot(df)
 st.write(project_events)
-
