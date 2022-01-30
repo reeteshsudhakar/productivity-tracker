@@ -1,4 +1,6 @@
 # Productivity Tracker
+> **UPDATE**: As of 01/30/2022, I've archived my Notion page, and data is no longer being collected. As such, the program no longer has access to the data from the workspace and will not be able to generate figures and display them. The code will still work as described if you customize the setup with the instructions below. 
+
 I was inspired to visualize the data that I've been collecting for the past month with my Habit Tracker in Notion. I use Notion daily to track deadlines, plan out obligations, manage finances and spending, and more. I recently started logging personal habits using Notion's tables and checkboxes function. Though Notion's interface is very powerful, I wanted to graphically view the data that I'd been collecting without having to stare at a table full of checkboxes. 
 
 > **Note**: The code for this project was based on how my Notion page was set up [(see here)](https://ibb.co/jfZS8zb). Results may vary based on how each user configures their pages within Notion. 
